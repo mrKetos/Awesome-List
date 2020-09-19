@@ -9,9 +9,20 @@
 </div>
 
 ## Содержание
-- [Тестирование](./src/Testing.md)
-- [CSS, HTML](./src/CSS,%20HTML.md)
-- [JavaScript](src/JavaScript.md)
-- [Linux](src/Linux.md)
-- [Python](src/Python.md)
-- [Data science](src/Data%20science.md)
+- [Содержание](#содержание)
+- [Тестирование](#тестирование)
+- [CSS, HTML](#css-html)
+- [JavaScript](#javascript)
+- [Linux](#linux)
+- [Python](#python)
+- [Data science]](#data-science)
+- [Git](#git)
+
+
+## Тестирование
+## CSS, HTML
+## JavaScript
+## Linux
+## Python
+## Data science]
+## Git
