@@ -6,17 +6,17 @@
     <div align="justify">     
         <h2> СПС - это список полезных статей. Тут я храню различные интересные статьи, туториалы, книги и прочее, разбитые по темам и заголовкам.</h2>
     </div>
+    <br>
 </div>
 
-## Содержание
+<h1> Содержание </h1>
 
-- [Содержание](#содержание)
 - [Тестирование](#тестирование)
 - [CSS, HTML](#css-html)
 - [JavaScript](#javascript)
 - [Linux](#linux)
 - [Python](#python)
-- [Data science]](#data-science)
+- [Data science](#data-science)
 - [Git](#git)
 
 
@@ -25,5 +25,6 @@
 ## JavaScript
 ## Linux
 ## Python
-## Data science]
+## Data science
 ## Git
+
