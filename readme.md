@@ -7,6 +7,7 @@
         <h2> СПС - это список полезных статей. Тут я храню различные интересные статьи, туториалы, книги и прочее, разбитые по темам и заголовкам.</h2>
     </div>
     <br>
+    - [ []]() —
 </div>
 
 ## Содержание 
@@ -28,9 +29,9 @@
 ### Техники тест-дизайна
 ### Прочее
 ### Автоматизация
-- [Selenium для Python [Документация 2015]](https://habr.com/ru/post/248559/) — Перевод неофициальной документации Selenium для Python.
-- [Тесты в Python (доклад 2020)](https://habr.com/ru/company/yandex/blog/517266/) — Тесты в Python: все основные подходы, плюсы и минусы. 
-- [Python Testing with pytest. Просто, Быстро, Эффективно и Масштабируемо. Предисловие и Ведение [2019]](https://habr.com/ru/post/426699/)
+- [ ] [Selenium для Python [Руководство 2015]](https://habr.com/ru/post/248559/) — Перевод неофициальной документации Selenium для Python.
+- [x] [Тесты в Python [Доклад 2020]](https://habr.com/ru/company/yandex/blog/517266/) — Тесты в Python: все основные подходы, плюсы и минусы. 
+- [Python Testing with pytest [Руководство 2019]](https://habr.com/ru/post/426699/) — Перевод книги Python Testing with pytest.
 ### Книги
 
 ## CSS, HTML
@@ -40,7 +41,8 @@
 
 
 ## Linux
-
+### Bash
+- [ []]() —
 
 ## Python
 ### Линтеры
