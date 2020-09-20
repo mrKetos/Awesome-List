@@ -28,8 +28,8 @@
 ### Техники тест-дизайна
 ### Прочее
 ### Автоматизация
-- [Selenium для Python [2015]](https://habr.com/ru/post/248559/) — Перевод неофициальной документации Selenium для Python.
-- [Тесты в Python (доклад 2020)](https://habr.com/ru/company/yandex/blog/517266/) — Тесты в Python: все основные подходы, плюсы и минусы. Доклад Яндекса.
+- [Selenium для Python [Документация 2015]](https://habr.com/ru/post/248559/) — Перевод неофициальной документации Selenium для Python.
+- [Тесты в Python (доклад 2020)](https://habr.com/ru/company/yandex/blog/517266/) — Тесты в Python: все основные подходы, плюсы и минусы. 
 - [Python Testing with pytest. Просто, Быстро, Эффективно и Масштабируемо. Предисловие и Ведение [2019]](https://habr.com/ru/post/426699/)
 ### Книги
 
