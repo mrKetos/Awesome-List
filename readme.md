@@ -40,6 +40,7 @@
 - [ ] [Selenium для Python [Руководство 2015]](https://habr.com/ru/post/248559/) — Перевод неофициальной документации Selenium для Python.
 - [ ] [Тесты в Python [Доклад 2020]](https://habr.com/ru/company/yandex/blog/517266/) — Тесты в Python: все основные подходы, плюсы и минусы. 
 - [ ] [Python Testing with pytest [Руководство 2019]](https://habr.com/ru/post/426699/) — Перевод книги Python Testing with pytest.
+- [ ]  [Трансформация из Manual QA в Automation [[Доклад 2021]](https://www.youtube.com/watch?v=FkhWIgqtmZ8) — ППланирую поглядеть.
 ### Книги
 
 ## CSS, HTML
